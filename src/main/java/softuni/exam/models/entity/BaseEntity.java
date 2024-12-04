@@ -1,6 +1,5 @@
 package softuni.exam.models.entity;
 
-import org.springframework.stereotype.Component;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
