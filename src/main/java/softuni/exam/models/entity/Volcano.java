@@ -91,9 +91,4 @@ public class Volcano extends BaseEntity{
     public void setLastEruption(LocalDate lastEruption) {
         this.lastEruption = lastEruption;
     }
-
-    public void searchEruption(){
-
-    }
-
 }
